@@ -1,0 +1,2737 @@
+NOTICES AND INFORMATION
+
+
+
+
+The IBM license agreement and any applicable information on the web
+download page for IBM products refers Licensee to this file for details
+concerning notices applicable to code included in the products listed
+above ("the Program").
+
+Notwithstanding the terms and conditions of any other agreement Licensee
+may have with IBM or any of its related or affiliated entities
+(collectively "IBM"), the third party code identified below is subject
+to the terms and conditions of the IBM license agreement for the Program
+and not the license terms that may be contained in the notices below.
+The notices are provided for informational purposes.
+
+Please note: This Notices file may identify information that is not used
+by, or that was not shipped with, the Program as Licensee installed it.
+
+IMPORTANT: IBM does not represent or warrant that the information in this
+NOTICES file is accurate. Third party websites are independent of IBM and
+IBM does not represent or warrant that the information on any third party
+website referenced in this NOTICES file is accurate. IBM disclaims any
+and all liability for errors and omissions or for any damages accruing
+from the use of this NOTICES file or its contents, including without
+limitation URLs or references to any third party websites.
+
+NOTICES AND INFORMATION
+
+IBM Cúram Social Program Management Platform V7.0.5
+IBM Cúram Social Program Management Platform Professional V7.0.5
+
+The IBM license agreement and any applicable information on the web
+download page for IBM products refers Licensee to this file for details
+concerning notices applicable to code included in the products listed
+above ("the Program").
+
+Notwithstanding the terms and conditions of any other agreement Licensee
+may have with IBM or any of its related or affiliated entities
+(collectively "IBM"), the third party code identified below is subject
+to the terms and conditions of the IBM license agreement for the Program
+and not the license terms that may be contained in the notices below.
+The notices are provided for informational purposes.
+
+Please note: This Notices file may identify information that is not used
+by, or that was not shipped with, the Program as Licensee installed it.
+
+IMPORTANT: IBM does not represent or warrant that the information in this
+NOTICES file is accurate. Third party websites are independent of IBM and
+IBM does not represent or warrant that the information on any third party
+website referenced in this NOTICES file is accurate. IBM disclaims any
+and all liability for errors and omissions or for any damages accruing
+from the use of this NOTICES file or its contents, including without
+limitation URLs or references to any third party websites.
+
+
+The following are Excluded Components:
+
+ANT Contrib, 	
+ANTLR,	
+AOP Alliance (Java/J2EE AOP standard),	
+Apache Commons BCEL,	
+Apache Commons JXPath,	
+Apache Commons Net,	
+Apache Commons Validator,	
+Apache Extras Companion for Apache log4j,
+Apache Jakarta Commons IO, 	
+Apache Regexp,	
+Avalon Framework, 	
+Axiom, 	
+Axis 2,	
+Batik,	
+Cairngorm,	
+Castor Project,	
+CFInstall,	
+CGLib-nodep, 
+Chemistry OpenCMIS Client,	
+Commons-Collections,
+Compass,	
+CUP,	
+degrafa,	
+Derby,	
+Display Shelf,	
+DocBook XML DTD,	
+DOM Design Tricks,	
+Easing Equations,	
+Eclipse BIRT,	
+Eclipse Modeling Framework,	
+ehcache,	
+Equinox,	
+ExcludeDoclet,	
+Flare,	
+flexlib,	
+Flute,
+FOP, 		
+Google-gson, 
+Java API for Google geocoder v3,	
+Geronimo-jaxws,	
+Geronimo-Specs,	
+google-guice subset,
+Guava,
+Guice, 	
+H2 Database Engine,	
+HK2, 
+htmlArea,	
+Httpcore,	
+Httpclient,
+International Components for Unicode (ICU4J),	
+iText, a JAVA-PDF library,
+Iz Pack,	
+Jacob,
+Jackson, 
+Jakarta BSF - Bean Scripting Framework,	
+Jakarta Commons BeanUtils,	
+Jakarta Commons CLI,	
+Jakarta Commons Codec,	
+Jakarta Commons Collections,	
+Jakarta Commons Configuration,	
+Jakarta Commons DBCP,	
+Jakarta Commons Digester,	
+Jakarta Commons FileUpload,	
+Jakarta Commons Discovery,	
+Jakarta ORO,	
+Jakarta Commons Lang,	
+Jakarta Commons Logging,	
+Jakarta Commons Pool,	
+Jakarta Commons-IO,	
+Jakarta Lucene,	
+Jalopy,	
+Java Annotations, 
+Java API for XML Parsing - JAXP,	
+Java Architecture for XML Binding (JAXB),
+Java Inject, 	
+Java look and feel Graphics Repository,	
+Javassist,
+Java Validation, 	
+Java WS RS API, 
+JAX RPC,	
+JAXWS-API  (Java API for XML Web Services),	
+JDOM,
+Jersey, 		
+jfor : XSL-FO to RTF converter,	
+JGoodies - looks,	
+Jibx (bind/run),	
+Joda-Time,	
+Json4j,	
+jsoup,
+JSTL -  Jakarta Taglibs,	
+JTidy,	
+log4j,	
+Struts,	
+Tomcat's RequestFilter.java file,	
+Mate Framework,	
+Matt Kruse Javascript Toolbox,	
+mimepull,	
+Mozilla Rhino: JavaScript for Java ,	
+NanoXML,	
+Opensaml,	
+Openws,	
+Prototypejs (Java Script Framework),	
+Rampart,	
+SAC - The Simple API for CSS (org.w3c.css.sac),	
+Santuario,	
+SAX,	
+saxpath,	
+Simple Logging Facade for Java (SLF4J),	
+skeleton1-5.xsl (Schematron),	
+Slider,	
+SMIL Animation (org.w3c.dom.smil),	
+SOAP with Attachments API for Java (SAAJ),	
+SoapMonitor,	
+StAX - ex (stax-ex.jar),	
+StAX - Streaming API for XML,	
+StringBuilder,	
+Sun Java Platform Standard Edition SDK (J2SDK),	
+SVG DTD,	
+swfobject,	
+Table Filter,	
+Tango Icons,	
+Textwrap,	
+tweener,	
+Util.concurrent,
+Vis,	
+w3c DOM,	
+W3C Scalable Vector Graphics Specification,	
+Web Services Axis,	
+Web Services Description Language for Java (WSDL4J),
+Web Services Security for Java (WSS4J),
+Woden,	
+Woodstox,	
+WS-Commons Neethi,		
+Xerces,
+xml-apis-ext,
+xmlunit-core,	
+XML commons Resolver,	
+XML FOP,	
+XML Graphics Commons,	
+XML Security Java,	
+XML Stream Buffer,	
+XML Unit,	
+XML XalanJ
+XML Xalan Java,	
+XML Xerces Java 2,	
+XML-Commons (XML-APIs),	
+Xmlbeans,	
+Xmlschema,	
+XMLTooling,	
+YUI Library,	
+
+APACHE CODE: The Program includes all or portions of the following software 
+developed by the Apache Software Foundation.  This software consists of 
+voluntary contributions made by many individuals on behalf of the Apache 
+Software Foundation.  For more information on the Apache Software Foundation, 
+please see http://www.apache.org. 
+/* ====================================================================
+* The Apache Software License, Version 1.1
+
+The Program includes some or all of the following that IBM obtained under the 
+Apache License Version 1.1 
+
+Jakarta Commons CLI, Jakarta Commons Collections, 
+Jakarta Commons Digester, Jakarta ORO, Regexp,  
+XML-Commons (XML-APIs), Xerces, XML commons Resolver
+
+IBM is required to provide to You the following notices and other important 
+information with respect to these Excluded Components: The License terms for the 
+components are as follows
+ * The Apache Software License, Version 1.1
+ *
+ * Copyright (c) 2000 The Apache Software Foundation.  All rights
+ * reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. The end-user documentation included with the redistribution,
+ *    if any, must include the following acknowledgment:
+ *       "This product includes software developed by the
+ *        Apache Software Foundation (http://www.apache.org/)."
+ *    Alternately, this acknowledgment may appear in the software itself,
+ *    if and wherever such third-party acknowledgments normally appear.
+ *
+ * 4. The names "Apache" and "Apache Software Foundation" must
+ *    not be used to endorse or promote products derived from this
+ *    software without prior written permission. For written
+ *    permission, please contact apache@apache.org.
+ *
+ * 5. Products derived from this software may not be called "Apache",
+ *    nor may "Apache" appear in their name, without prior written
+ *    permission of the Apache Software Foundation.
+ *
+ * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ * USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This software consists of voluntary contributions made by many
+ * individuals on behalf of the Apache Software Foundation.  For more
+ * information on the Apache Software Foundation, please see
+ * <http://www.apache.org/>.
+ *
+ * Portions of this software are based upon public domain software
+ * originally written at the National Center for Supercomputing Applications,
+ * University of Illinois, Urbana-Champaign.
+ */		
+ ===========================================================
+          The Apache Software License, Version 2.0
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Apache License Version 2.0
+
+Apache Derby, Batik, Apache httpclient,  Castor Project, Chemistry OpenCMIS 
+Client, Commons-Collections, Compass, FOP, Jackson, Jakarta Commons Beanutils, 
+Jakarta Commons Codec, Apache Commons BCEL, Jakarta Commons IO, Jakarta Commons Configuration, 
+ehcache, Jakarta Commons DBCP, Jakarta Commons Discovery, Jakarta Commons FileUpload, 
+Apache Commons JXPath, Jakarta Commons Lang, Jakarta Commons Logging, 
+Apache Commons Net, Jakarta Commons Pool, Apache Commons Validator, Jakarta Lucene, 
+Iz Pack, Jakarta BSF, ANT Contrib, log4j, Santuario, Struts, Tomcat's RequestFilter.java, 
+Web Services Axis,  XML Graphics Commons, XML XalanJ, Avalon Framework, 
+Web Services Security for Java (WSS4J), XML FOP, XML Xerces Java 2, Axiom, 
+Axis 2,Google-gson,Java API for Google geocoder v3, Geronimo-jaxws, Geronimo-Specs, 
+google-guice, Guava, Guice, httpcore, Jakarta Commons IO, jfor, Joda-Time, JSTL, 
+Mate Framework, Opensaml, Openws,  Rampart, saxpath, SoapMonitor, StAX, Vis, 
+Woden, Woodstox, WS-Commons Neethi, Xmlbeans, Xmlschema, XML Security Java, 
+XMLTooling, Java Inject, Java Validation, xml-apis-ext, xmlunit-core, CGLib-nodep,
+Apache Extras Companion for Apache log4j.
+
+IBM is required to provide to You the following notices and other important 
+information with respect to these Excluded Components: The License terms for the 
+components are as follows
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and 
+distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright 
+owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities 
+that control, are controlled by, or are under common control with that entity. 
+For the purposes of this definition, "control" means (i) the power, direct or 
+indirect, to cause the direction or management of such entity, whether by 
+contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the 
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising 
+permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including 
+but not limited to software source code, documentation source, and configuration 
+files.
+
+"Object" form shall mean any form resulting from mechanical transformation or 
+translation of a Source form, including but not limited to compiled object code, 
+generated documentation, and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made 
+available under the License, as indicated by a copyright notice that is included 
+in or attached to the work (an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that 
+is based on (or derived from) the Work and for which the editorial revisions, 
+annotations, elaborations, or other modifications represent, as a whole, an 
+original work of authorship. For the purposes of this License, Derivative Works 
+shall not include works that remain separable from, or merely link (or bind by 
+name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version 
+of the Work and any modifications or additions to that Work or Derivative Works 
+thereof, that is intentionally submitted to Licensor for inclusion in the Work 
+by the copyright owner or by an individual or Legal Entity authorized to submit 
+on behalf of the copyright owner. For the purposes of this definition, 
+"submitted" means any form of electronic, verbal, or written communication sent 
+to the Licensor or its representatives, including but not limited to 
+communication on electronic mailing lists, source code control systems, and 
+issue tracking systems that are managed by, or on behalf of, the Licensor for 
+the purpose of discussing and improving the Work, but excluding communication 
+that is conspicuously marked or otherwise designated in writing by the copyright 
+owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf 
+of whom a Contribution has been received by Licensor and subsequently 
+incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this 
+License, each Contributor hereby grants to You a perpetual, worldwide, non-
+exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, 
+prepare Derivative Works of, publicly display, publicly perform, sublicense, and 
+distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, 
+each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-
+charge, royalty-free, irrevocable (except as stated in this section) patent 
+license to make, have made, use, offer to sell, sell, import, and otherwise 
+transfer the Work, where such license applies only to those patent claims 
+licensable by such Contributor that are necessarily infringed by their 
+Contribution(s) alone or by combination of their Contribution(s) with the Work 
+to which such Contribution(s) was submitted. If You institute patent litigation 
+against any entity (including a cross-claim or counterclaim in a lawsuit) 
+alleging that the Work or a Contribution incorporated within the Work 
+constitutes direct or contributory patent infringement, then any patent licenses 
+granted to You under this License for that Work shall terminate as of the date 
+such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or 
+Derivative Works thereof in any medium, with or without modifications, and in 
+Source or Object form, provided that You meet the following conditions:
+
+    You must give any other recipients of the Work or Derivative Works a copy of 
+this License; and
+
+    You must cause any modified files to carry prominent notices stating that 
+You changed the files; and
+
+    You must retain, in the Source form of any Derivative Works that You 
+distribute, all copyright, patent, trademark, and attribution notices from the 
+Source form of the Work, excluding those notices that do not pertain to any part 
+of the Derivative Works; and
+
+    If the Work includes a "NOTICE" text file as part of its distribution, then 
+any Derivative Works that You distribute must include a readable copy of the 
+attribution notices contained within such NOTICE file, excluding those notices 
+that do not pertain to any part of the Derivative Works, in at least one of the 
+following places: within a NOTICE text file distributed as part of the 
+Derivative Works; within the Source form or documentation, if provided along 
+with the Derivative Works; or, within a display generated by the Derivative 
+Works, if and wherever such third-party notices normally appear. The contents of 
+the NOTICE file are for informational purposes only and do not modify the 
+License. You may add Your own attribution notices within Derivative Works that 
+You distribute, alongside or as an addendum to the NOTICE text from the Work, 
+provided that such additional attribution notices cannot be construed as 
+modifying the License. You may add Your own copyright statement to Your 
+modifications and may provide additional or different license terms and 
+conditions for use, reproduction, or distribution of Your modifications, or for 
+any such Derivative Works as a whole, provided Your use, reproduction, and 
+distribution of the Work otherwise complies with the conditions stated in this 
+License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise, any 
+Contribution intentionally submitted for inclusion in the Work by You to the 
+Licensor shall be under the terms and conditions of this License, without any 
+additional terms or conditions. Notwithstanding the above, nothing herein shall 
+supersede or modify the terms of any separate license agreement you may have 
+executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, 
+trademarks, service marks, or product names of the Licensor, except as required 
+for reasonable and customary use in describing the origin of the Work and 
+reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in 
+writing, Licensor provides the Work (and each Contributor provides its 
+Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY 
+KIND, either express or implied, including, without limitation, any warranties 
+or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A 
+PARTICULAR PURPOSE. You are solely responsible for determining the 
+appropriateness of using or redistributing the Work and assume any risks 
+associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in 
+tort (including negligence), contract, or otherwise, unless required by 
+applicable law (such as deliberate and grossly negligent acts) or agreed to in 
+writing, shall any Contributor be liable to You for damages, including any 
+direct, indirect, special, incidental, or consequential damages of any character 
+arising as a result of this License or out of the use or inability to use the 
+Work (including but not limited to damages for loss of goodwill, work stoppage, 
+computer failure or malfunction, or any and all other commercial damages or 
+losses), even if such Contributor has been advised of the possibility of such 
+damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or 
+Derivative Works thereof, You may choose to offer, and charge a fee for, 
+acceptance of support, warranty, indemnity, or other liability obligations 
+and/or rights consistent with this License. However, in accepting such 
+obligations, You may act only on Your own behalf and on Your sole 
+responsibility, not on behalf of any other Contributor, and only if You agree to 
+indemnify, defend, and hold each Contributor harmless for any liability incurred 
+by, or claims asserted against, such Contributor by reason of your accepting any 
+such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS	
+
+ ===========================================================
+         		 BSD License
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+BSD License. 
+
+XML Unit 
+Copyright (c) 2001, Jeff Martin, Tim Bacon
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials provided
+      with the distribution.
+    * Neither the name of the xmlunit.sourceforge.net nor the names
+      of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written
+      permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+JGoodies Looks
+Copyright (c) 2001-2007 JGoodies Karsten Lentzsch. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+ o Redistributions of source code must retain the above copyright notice, 
+   this list of conditions and the following disclaimer. 
+    
+ o Redistributions in binary form must reproduce the above copyright notice, 
+   this list of conditions and the following disclaimer in the documentation 
+   and/or other materials provided with the distribution. 
+    
+ o Neither the name of JGoodies Karsten Lentzsch nor the names of 
+   its contributors may be used to endorse or promote products derived 
+   from this software without specific prior written permission. 
+    
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; 
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR 
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Cairngorm
+Copyright (c) 2006. Adobe Systems Incorporated.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list 
+of conditions and the following disclaimer. 
+
+Redistributions in binary form must reproduce the above copyright notice, this 
+list of conditions and the following disclaimer in the documentation and/or 
+other materials provided with the distribution. 
+
+Neither the name of Adobe Systems Incorporated nor the names of its contributors 
+may be used to endorse or promote products derived from this software without 
+specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS 
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Easing Equations
+Copyright (c) 2001 Robert Penner
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list 
+of conditions and the following disclaimer.
+	
+Redistributions in binary form must reproduce the above copyright notice, this 
+list of conditions and the following disclaimer in the documentation and/or 
+other materials provided with the distribution.
+
+Neither the name of the author nor the names of contributors may be used to 
+endorse or promote products derived from this software without specific prior 
+written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS 
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+ANTLR
+Copyright (c) 2010 Terence Parr
+All rights reserved. 
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met: 
+
+Redistributions of source code must retain the above copyright notice, this list 
+of conditions and the following disclaimer. 
+
+Redistributions in binary form must reproduce the above copyright notice, this 
+list of conditions and the following disclaimer in the documentation and/or 
+other materials provided with the distribution. 
+
+Neither the name of the author nor the names of its contributors may be used 
+to endorse or promote products derived from this software without specific prior 
+written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS 
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE 
+GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT 
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT 
+OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Jalopy
+Copyright (c) 2001-2002 Marco Hunsicker. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list 
+of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this 
+list of conditions and the following disclaimer in the documentation and/or 
+other materials provided with the distribution.
+
+Neither the name of the Jalopy Group nor the names of its contributors may be 
+used to endorse or promote products derived from this software without specific 
+prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR 
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER 
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE 
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Flare
+Copyright (c) 2007-2009 Regents of the University of California.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+notice, this list of conditions and the following disclaimer in the
+documentation and/or other materials provided with the distribution.
+
+3.  Neither the name of the University nor the names of its contributors
+may be used to endorse or promote products derived from this software
+without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGE.
+
+YUI library
+Copyright (c) 2008, Yahoo! Inc. 
+All rights reserved.
+
+Redistribution and use of this software in source and binary forms, with 
+or without modification, are permitted provided that the following 
+conditions are met:
+
+Redistributions of source code must retain the above copyright notice, 
+this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, 
+this list of conditions and the following disclaimer in the documentation 
+and/or other materials provided with the distribution.
+
+Neither the name of Yahoo! Inc. nor the names of YUI's contributors may 
+be used to endorse or promote products derived from this software without 
+specific prior written permission of Yahoo! Inc.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN 
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGE.
+
+
+ ===========================================================
+		BSD-Style License 
+ ===========================================================
+
+The Program includes some or all of the following that IBM obtained under the 
+BSD-style License.
+
+Java Look and Feel Graphics Copyright 2000 by Sun Microsystems, Inc. 
+
+The license text is as follows:
+
+Copyright 2000 by Sun Microsystems, Inc. All Rights Reserved.
+
+Sun grants you ("Licensee") a non-exclusive, royalty free, license to use, and 
+redistribute this software graphics artwork, as individual graphics or as a 
+collection, as part of software code or programs that you develop, provided that 
+i) this copyright notice and license accompany the software graphics artwork; 
+and ii) you do not utilize the software graphics artwork in a manner which is 
+disparaging to Sun. Unless enforcement is prohibited by applicable law, you may 
+not modify the graphics, and must use them true to color and unmodified in every 
+way.
+
+This software graphics artwork is provided "AS IS," without a warranty of any 
+kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, 
+INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. SUN AND ITS LICENSORS SHALL 
+NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, 
+MODIFYING OR DISTRIBUTING THE SOFTWARE GRAPHICS ARTWORK.
+
+IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR 
+DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE 
+DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT 
+OF THE USE OF OR INABILITY TO USE SOFTWARE GRAPHICS ARTWORK, EVEN IF SUN HAS 
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If any of the above provisions are held to be in violation of applicable law, 
+void, or unenforceable in any jurisdiction, then such provisions are waived to 
+the extent necessary for this Disclaimer to be otherwise enforceable in such 
+jurisdiction.
+
+
+JDOM Copyright (C) 2000-2007 Jason Hunter & Brett McLaughlin
+
+The License text for this software is as follows:
+
+Copyright (C) 2000-2007 Jason Hunter & Brett McLaughlin.
+All rights reserved.
+
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions, and the following disclaimer.
+
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions, and the disclaimer that follows
+    these conditions in the documentation and/or other materials
+    provided with the distribution.
+
+ 3. The name "JDOM" must not be used to endorse or promote products
+    derived from this software without prior written permission.  For
+    written permission, please contact <request_AT_jdom_DOT_org>.
+
+ 4. Products derived from this software may not be called "JDOM", nor
+    may "JDOM" appear in their name, without prior written permission
+    from the JDOM Project Management <request_AT_jdom_DOT_org>.
+
+ In addition, we request (but do not require) that you include in the
+ end-user documentation provided with the redistribution and/or in the
+ software itself an acknowledgement equivalent to the following:
+     "This product includes software developed by the
+      JDOM Project (http://www.jdom.org/)."
+ Alternatively, the acknowledgment may be graphical using the logos
+ available at http://www.jdom.org/images/logos.
+
+ THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED.  IN NO EVENT SHALL THE JDOM AUTHORS OR THE PROJECT
+ CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ SUCH DAMAGE.
+
+ This software consists of voluntary contributions made by many
+ individuals on behalf of the JDOM Project and was originally
+ created by Jason Hunter <jhunter_AT_jdom_DOT_org> and
+ Brett McLaughlin <brett_AT_jdom_DOT_org>.  For more information
+ on the JDOM Project, please see <http://www.jdom.org/>.
+
+ 
+CUP Copyright 1996 by Scott Hudson, Frank Flannery, C. Scott Ananian
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appear in all copies and that
+both the copyright notice and this permission notice and warranty
+disclaimer appear in supporting documentation, and that the names of
+the authors or their employers not be used in advertising or publicity 
+pertaining to distribution of the software without specific, written 
+prior permission.
+
+The authors and their employers disclaim all warranties with regard to 
+this software, including all implied warranties of merchantability and 
+fitness.  In no event shall the authors or their employers be liable 
+for any special, indirect or consequential damages or any damages 
+whatsoever resulting from loss of use, data or profits, whether in an 
+action of contract, negligence or other tortious action, arising out of 
+or in connection with the use or performance of this software.
+
+
+JTidy Copyright (c) 1998-2000 World Wide Web Consortium (Massachusetts 
+Institute of Technology, Institut National de Recherche en Informatique 
+et en Automatique, Keio University). All Rights Reserved.
+
+  Contributing Author(s):
+
+     Dave Raggett <dsr@w3.org>
+     Andy Quick <ac.quick@sympatico.ca> (translation to Java)
+     Gary L Peskin <garyp@firstech.com> (Java development)
+     Sami Lempinen <sami@lempinen.net>  (release management)
+
+  The contributing author(s) would like to thank all those who
+  helped with testing, bug fixes, and patience.  This wouldn't
+  have been possible without all of you.
+
+  COPYRIGHT NOTICE:
+ 
+  This software and documentation is provided "as is," and
+  the copyright holders and contributing author(s) make no
+  representations or warranties, express or implied, including
+  but not limited to, warranties of merchantability or fitness
+  for any particular purpose or that the use of the software or
+  documentation will not infringe any third party patents,
+  copyrights, trademarks or other rights. 
+
+  The copyright holders and contributing author(s) will not be
+  liable for any direct, indirect, special or consequential damages
+  arising out of any use of the software or documentation, even if
+  advised of the possibility of such damage.
+
+  Permission is hereby granted to use, copy, modify, and distribute
+  this source code, or portions hereof, documentation and executables,
+  for any purpose, without fee, subject to the following restrictions:
+
+  1. The origin of this source code must not be misrepresented.
+  2. Altered versions must be plainly marked as such and must
+     not be misrepresented as being the original source.
+  3. This Copyright notice may not be removed or altered from any
+     source or altered source distribution.
+ 
+  The copyright holders and contributing author(s) specifically
+  permit, without fee, and encourage the use of this source code
+  as a component for supporting the Hypertext Markup Language in
+  commercial products. If you use this source code in a product,
+  acknowledgment is not required but would be appreciated.
+
+  
+DocBook XML DTD Copyright 1992-2004 HaL Computer Systems, Inc.,
+O'Reilly & Associates, Inc., ArborText, Inc., Fujitsu Software
+Corporation, Norman Walsh, Sun Microsystems, Inc., and the
+Organization for the Advancement of Structured Information
+Standards (OASIS).
+
+See also http://docbook.org/specs/
+
+Permission to use, copy, modify and distribute the DocBook XML DTD
+and its accompanying documentation for any purpose and without fee
+is hereby granted in perpetuity, provided that the above copyright
+notice and this paragraph appear in all copies.  The copyright
+holders make no representation about the suitability of the DTD for
+any purpose.  It is provided "as is" without expressed or implied
+warranty.
+
+If you modify the DocBook DTD in any way, except for declaring and
+referencing additional sets of general entities and declaring
+additional notations, label your DTD as a variant of DocBook.  See
+the maintenance documentation for more information.
+
+Please direct all questions, bug reports, or suggestions for
+changes to the docbook@lists.oasis-open.org mailing list. For more
+information, see http://www.oasis-open.org/docbook/.
+
+
+htmlArea Copyright (c) 2002, interactivetools.com, inc.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1) Redistributions of source code must retain the above copyright notice, 
+this list of conditions and the following disclaimer. 
+
+2) Redistributions in binary form must reproduce the above copyright notice, 
+this list of conditions and the following disclaimer in the documentation 
+and/or other materials provided with the distribution. 
+
+3) Neither the name of interactivetools.com, inc. nor the names of its 
+contributors may be used to endorse or promote products derived from this
+software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN 
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF 
+THE POSSIBILITY OF SUCH DAMAGE.
+
+
+vbAccelerator String Builder Copyright (c) 2002 vbAccelerator.com
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+    1. Redistributions of source code must retain the above copyright 
+	notice, this list of conditions and the following disclaimer
+    2. Redistributions in binary form must reproduce the above copyright 
+	notice, this list of conditions and the following disclaimer in the 
+	documentation and/or other materials provided with the distribution.
+    3. The end-user documentation included with the redistribution, if 
+	any, must include the following acknowledgment:
+
+    "This product includes software developed by vbAccelerator (/index.html)."
+
+    Alternately, this acknowledgment may appear in the software itself, 
+	if and wherever such third-party acknowledgments normally appear.
+    4. The names "vbAccelerator" and "vbAccelerator.com" must not be 
+	used to endorse or promote products derived from this software 
+	without prior written permission. For written permission, please 
+	contact vbAccelerator through steve@vbaccelerator.com.
+    5. Products derived from this software may not be called "vbAccelerator",
+	nor may "vbAccelerator" appear in their name, without prior written 
+	permission of vbAccelerator.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY 
+AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+VBACCELERATOR OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, 
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT 
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY 
+OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+Text Wrap class developed by Antoine Quint - http://www.xml.com/pub/a/2002/09/11/quint.html
+
+
+Slider.js used by IBM using following BSD-style license 
+ * Slider
+ *   
+ * Slider050723
+ * by Christiaan Hofman, July 2005
+ *   
+ * You may use or modify this code provided that this copyright notice
+ * appears on all copies.	
+
+ ===========================================================
+	Common Development and Distribution License 
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Common Development and Distribution License (source code available via the 
+indicated URL): 
+
+Jaxws-api (http://community.java.net/java-ws-xml/)
+Mimepull ( http://download.java.net/maven/2/org/jvnet/mimepull/1.3)
+Stax-Ex(http://download.java.net/maven/2/org/jvnet/staxex/stax-ex/1.2/)
+XML Stream buffer (http://download.java.net/maven/1/com.sun.xml.stream.buffer/jars/)
+Jersey (https://jersey.java.net)
+HK2 (https://hk2.java.net)
+Java WS RS API (https://jax-rs-spec.java.net/)
+Java Annotations (https://jcp.org/en/jsr/detail?id=250)
+	
+ ===========================================================
+		Common Public License 
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Common Public License (source code available via the indicated URL) 
+Web Services Description Language for Java (WSDL4J) (http://sourceforge.net/projects/wsdl4j/)	
+
+===========================================================
+		Eclipse Public License 
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Eclipse Public License (source code available via the indicated URL) 
+Eclipse BIRT (http://download.eclipse.org/birt/downloads/build.php?build=R-R1-4_4_1-201409161320)
+Eclipse Modelling Frameworks (http://www.eclipse.org/emf/
+http://www.eclipse.org/modeling/emf/downloads/?project=emf)
+Equinox (http://www.eclipse.org/equinox/)
+H2 Database Engine (http://code.google.com/p/h2database/downloads/list)
+
+ ===========================================================
+			MIT License
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+MIT License:
+
+CFInstall Copyright (c) 2011 The Chromium Authors, Degrafa Copyright (c) 2008 
+The Degrafa Team  http://www.Degrafa.com/team, Display Shelf Copyright (c) 2006 
+Adobe Systems Incorporated, Flexlib Copyright (c) 2007 FlexLib Contributors, 
+Prototype (c) 2005 Sam Stephenson <sam@conio.net>,  SLF4J Copyright (c) 2004-
+2008 QOS.ch, SVG DTD Copyright 2001, 2002 W3C (MIT, INRIA, Keio), SWFObject 
+Copyright (c) 2007-2008 Adobe Systems Incorporated, Tablefilter Copyright (c) 
+2009-2011 Max Guglielmi, Tweener Copyright (c) 2006-2007 Zeh Fernando and 
+Nate Chatellier, jsoup Copyright (c) 2009 - 2017 Jonathan Hedley (jonathan@hedley.net)
+
+The license terms for these components is listed below. 
+All rights reserved. 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+ ===========================================================
+		Mozilla Public License 
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Mozilla Public License (source code available via the indicated URL) 
+
+Javassist (http://www.javassist.org/)
+Rhino (http://www.mozilla.org/rhino/)	
+IText (http://mirrors.ibiblio.org/pub/mirrors/maven2/com/lowagie/itext/2.1.7/)
+
+ ===========================================================
+		Modifiable Third Party Code
+ ===========================================================
+This Program includes some or all of the following Modifiable Third Party Code 
+that IBM obtained under the GNU Lesser General Public License. For copies of the 
+source code for this software, send an email and the Modifiable Third Party Code 
+for which you are requesting the source code.
+JACOB Project  
+	
+ ===========================================================
+		W3C Software License
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+W3C Software Notice and License:
+
+xml-apis-ext, Flute, SAC, SMIL Animation and w3c DOM
+
+The full text of license is as follows
+W3C® SOFTWARE NOTICE AND LICENSE
+
+Copyright © 1994-2001 World Wide Web Consortium, (Massachusetts Institute of 
+Technology, Institut National de Recherche en Informatique et en Automatique, 
+Keio University). All Rights Reserved. http://www.w3.org/Consortium/Legal/
+
+This W3C work (including software, documents, or other related items) is being 
+provided by the copyright holders under the following license. By obtaining, 
+using and/or copying this work, you (the licensee) agree that you have read, 
+understood, and will comply with the following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software and its 
+documentation, with or without modification, for any purpose and without fee or 
+royalty is hereby granted, provided that you include the following on ALL copies 
+of the software and documentation or portions thereof, including modifications, 
+that you make:
+
+    1. The full text of this NOTICE in a location viewable to users of the 
+redistributed or derivative work.
+
+    2. Any pre-existing intellectual property disclaimers, notices, or terms and 
+conditions. If none exist, a short notice of the following form (hypertext is 
+preferred, text is permitted) should be used within the body of any 
+redistributed or derivative code: "Copyright © [$date-of-software] World Wide 
+Web Consortium, (Massachusetts Institute of Technology, Institut National de 
+Recherche en Informatique et en Automatique, Keio University). All Rights 
+Reserved. http://www.w3.org/Consortium/Legal/"
+
+    3. Notice of any changes or modifications to the W3C files, including the 
+date changes were made. (We recommend you provide URIs to the location from 
+which the code is derived.)
+
+THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE 
+NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT 
+THE USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY 
+PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+
+COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR 
+CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION.
+
+The name and trademarks of copyright holders may NOT be used in advertising or 
+publicity pertaining to the software without specific, written prior permission. 
+Title to copyright in this software and any associated documentation will at all 
+times remain with copyright holders.	
+===========================================================
+		Public Domain software
+ ===========================================================
+The Program includes some or all of the following softwares that are available 
+in public domain:
+AOP Alliance (http://sourceforge.net/projects/aopalliance/)
+ The AOP Alliance project is a joint open-source project between several 
+software engineering people who are interested in AOP and Java. 
+LICENCE: all the source code provided by AOP Alliance is Public Domain. 
+view the members' list....
+We believe that Aspect-Oriented Programming (AOP) offers a better solution to 
+many problems than do existing technologies such as EJB. AOP Alliance intends to 
+facilitate and standardize the use of AOP to enhance existing middleware 
+environments (such as J2EE), or development environements (e.g. JBuilder, 
+Eclipse). The AOP Alliance also aims to ensure interoperability between 
+Java/J2EE AOP implementations to build a larger AOP community. 
+Concurrent 
+(http://gee.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html)
+“All classes are released to the public domain and may be used for any purpose 
+whatsoever without permission or acknowledgment. Portions of the 
+CopyOnWriteArrayList and ConcurrentReaderHashMap classes are adapted from Sun 
+JDK source code. These are copyright of Sun Microsystems, Inc, and are used with 
+their kind permission,  as described <in this license>.”
+DOM Design Tricks (http://www.alistapart.com/articles/dom2/)
+Copyright © 1998-2012 A List Apart Magazine and the authors.
+
+Free source
+In its tutorials and articles, A List Apart gives away CSS styles, JavaScript, 
+PHP and Perl scripts, XHTML markup techniques, and other bits of “source code” 
+for the use of its readers. You may freely copy, paste, and modify any of this 
+code for use on your own web projects large or small, commercial or non-
+commercial. You need not ask permission to do so. You need not credit ALA or its 
+authors. It is our gift to you.
+Exclude Doclet (http://www.sixlegs.com/blog/java/exclude-javadoc-tag.html)
+
+Author: Chris Nokleberg.
+Only license text: The full source for ExcludeDoclet is here. It's in the public 
+domain, so go crazy. 
+
+Matt Kruse Java Toolbox (http://www.mattkruse.com/javascript/date/)
+// ===================================================================
+// Author: Matt Kruse <matt@mattkruse.com>
+// WWW: http://www.mattkruse.com/
+//
+// NOTICE: You may use this code for any purpose, commercial or
+// private, without any further permission from the author. You may
+// remove this notice from your final code if you wish, however it is
+// appreciated by the author if at least my web site address is kept.
+//
+// You may *NOT* re-distribute this code in any way except through its
+// use. That means, you can include it in your product, or your web
+// site, or any other form where the code is actually being used. You
+// may not put the plain javascript up on your site for download or
+// include it in your javascript libraries for download. 
+// If you wish to share this code with others, please just point them
+// to the URL instead.
+// Please DO NOT link directly to my .js files from your site. Copy
+// the files to your server and use them there. Thank you.
+// ===================================================================
+ * 	
+
+Sax (http://sourceforge.net/projects/sax/files/)
+
+From http://www.saxproject.org/copying.html
+“I hereby abandon any property rights to SAX 2.0 (the Simple API for XML), and 
+release all of the SAX 2.0 source code, compiled code, and documentation 
+contained in this distribution into the Public Domain. SAX comes with NO 
+WARRANTY or guarantee of fitness for any purpose.”	
+
+This Programs includes Tango Icons (http://tango.freedesktop.org/) which are 
+available in public domain.
+
+*******************************************************************
+* International Components for Unicode (ICU4J)        *
+*******************************************************************
+The Program includes some or all of the ICU4J 58.2 software which IBM 
+obtained under the terms and conditions of the following license(s):
+
+COPYRIGHT AND PERMISSION NOTICE (ICU 58 and later)
+
+Copyright (c) 1991-2016 Unicode, Inc. All rights reserved.
+Distributed under the Terms of Use in http://www.unicode.org/copyright.html
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Unicode data files and any associated documentation
+(the "Data Files") or Unicode software and any associated documentation
+(the "Software") to deal in the Data Files or Software
+without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, and/or sell copies of
+the Data Files or Software, and to permit persons to whom the Data Files
+or Software are furnished to do so, provided that either
+(a) this copyright and permission notice appear with all copies
+of the Data Files or Software, or
+(b) this copyright and permission notice appear in associated
+Documentation.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
+NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL
+DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder
+shall not be used in advertising or otherwise to promote the sale,
+use or other dealings in these Data Files or Software without prior
+written authorization of the copyright holder.
+
+---------------------
+
+Third-Party Software Licenses
+
+This section contains third-party software notices and/or additional
+terms for licensed third-party software components included within ICU
+libraries.
+
+1. ICU License - ICU 1.8.1 to ICU 57.1
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1995-2016 International Business Machines Corporation and others
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, and/or sell copies of the Software, and to permit persons
+to whom the Software is furnished to do so, provided that the above
+copyright notice(s) and this permission notice appear in all copies of
+the Software and that both the above copyright notice(s) and this
+permission notice appear in supporting documentation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY
+SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER
+RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder
+shall not be used in advertising or otherwise to promote the sale, use
+or other dealings in this Software without prior written authorization
+of the copyright holder.
+
+All trademarks and registered trademarks mentioned herein are the
+property of their respective owners.
+
+2. Chinese/Japanese Word Break Dictionary Data (cjdict.txt)
+
+ #     The Google Chrome software developed by Google is licensed under
+ # the BSD license. Other software included in this distribution is
+ # provided under other licenses, as set forth below.
+ #
+ #  The BSD License
+ #  http://opensource.org/licenses/bsd-license.php
+ #  Copyright (C) 2006-2008, Google Inc.
+ #
+ #  All rights reserved.
+ #
+ #  Redistribution and use in source and binary forms, with or without
+ # modification, are permitted provided that the following conditions are met:
+ #
+ #  Redistributions of source code must retain the above copyright notice,
+ # this list of conditions and the following disclaimer.
+ #  Redistributions in binary form must reproduce the above
+ # copyright notice, this list of conditions and the following
+ # disclaimer in the documentation and/or other materials provided with
+ # the distribution.
+ #  Neither the name of  Google Inc. nor the names of its
+ # contributors may be used to endorse or promote products derived from
+ # this software without specific prior written permission.
+ #
+ #
+ #  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+ # CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+ # INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ # MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ # DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+ # LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ # CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+ # SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR
+ # BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ # LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ # NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+ # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ #
+ #
+ #  The word list in cjdict.txt are generated by combining three word lists
+ # listed below with further processing for compound word breaking. The
+ # frequency is generated with an iterative training against Google web
+ # corpora.
+ #
+ #  * Libtabe (Chinese)
+ #    - https://sourceforge.net/project/?group_id=1519
+ #    - Its license terms and conditions are shown below.
+ #
+ #  * IPADIC (Japanese)
+ #    - http://chasen.aist-nara.ac.jp/chasen/distribution.html
+ #    - Its license terms and conditions are shown below.
+ #
+ #  ---------COPYING.libtabe ---- BEGIN--------------------
+ #
+ #  /*
+ #   * Copyrighy (c) 1999 TaBE Project.
+ #   * Copyright (c) 1999 Pai-Hsiang Hsiao.
+ #   * All rights reserved.
+ #   *
+ #   * Redistribution and use in source and binary forms, with or without
+ #   * modification, are permitted provided that the following conditions
+ #   * are met:
+ #   *
+ #   * . Redistributions of source code must retain the above copyright
+ #   *   notice, this list of conditions and the following disclaimer.
+ #   * . Redistributions in binary form must reproduce the above copyright
+ #   *   notice, this list of conditions and the following disclaimer in
+ #   *   the documentation and/or other materials provided with the
+ #   *   distribution.
+ #   * . Neither the name of the TaBE Project nor the names of its
+ #   *   contributors may be used to endorse or promote products derived
+ #   *   from this software without specific prior written permission.
+ #   *
+ #   * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ #   * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ #   * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ #   * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ #   * REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+ #   * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ #   * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ #   * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ #   * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ #   * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ #   * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ #   * OF THE POSSIBILITY OF SUCH DAMAGE.
+ #   */
+ #
+ #  /*
+ #   * Copyright (c) 1999 Computer Systems and Communication Lab,
+ #   *                    Institute of Information Science, Academia
+ #       *                    Sinica. All rights reserved.
+ #   *
+ #   * Redistribution and use in source and binary forms, with or without
+ #   * modification, are permitted provided that the following conditions
+ #   * are met:
+ #   *
+ #   * . Redistributions of source code must retain the above copyright
+ #   *   notice, this list of conditions and the following disclaimer.
+ #   * . Redistributions in binary form must reproduce the above copyright
+ #   *   notice, this list of conditions and the following disclaimer in
+ #   *   the documentation and/or other materials provided with the
+ #   *   distribution.
+ #   * . Neither the name of the Computer Systems and Communication Lab
+ #   *   nor the names of its contributors may be used to endorse or
+ #   *   promote products derived from this software without specific
+ #   *   prior written permission.
+ #   *
+ #   * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ #   * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ #   * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ #   * FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ #   * REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+ #   * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ #   * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ #   * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ #   * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ #   * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ #   * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ #   * OF THE POSSIBILITY OF SUCH DAMAGE.
+ #   */
+ #
+ #  Copyright 1996 Chih-Hao Tsai @ Beckman Institute,
+ #      University of Illinois
+ #  c-tsai4@uiuc.edu  http://casper.beckman.uiuc.edu/~c-tsai4
+ #
+ #  ---------------COPYING.libtabe-----END--------------------------------
+ #
+ #
+ #  ---------------COPYING.ipadic-----BEGIN-------------------------------
+ #
+ #  Copyright 2000, 2001, 2002, 2003 Nara Institute of Science
+ #  and Technology.  All Rights Reserved.
+ #
+ #  Use, reproduction, and distribution of this software is permitted.
+ #  Any copy of this software, whether in its original form or modified,
+ #  must include both the above copyright notice and the following
+ #  paragraphs.
+ #
+ #  Nara Institute of Science and Technology (NAIST),
+ #  the copyright holders, disclaims all warranties with regard to this
+ #  software, including all implied warranties of merchantability and
+ #  fitness, in no event shall NAIST be liable for
+ #  any special, indirect or consequential damages or any damages
+ #  whatsoever resulting from loss of use, data or profits, whether in an
+ #  action of contract, negligence or other tortuous action, arising out
+ #  of or in connection with the use or performance of this software.
+ #
+ #  A large portion of the dictionary entries
+ #  originate from ICOT Free Software.  The following conditions for ICOT
+ #  Free Software applies to the current dictionary as well.
+ #
+ #  Each User may also freely distribute the Program, whether in its
+ #  original form or modified, to any third party or parties, PROVIDED
+ #  that the provisions of Section 3 ("NO WARRANTY") will ALWAYS appear
+ #  on, or be attached to, the Program, which is distributed substantially
+ #  in the same form as set out herein and that such intended
+ #  distribution, if actually made, will neither violate or otherwise
+ #  contravene any of the laws and regulations of the countries having
+ #  jurisdiction over the User or the intended distribution itself.
+ #
+ #  NO WARRANTY
+ #
+ #  The program was produced on an experimental basis in the course of the
+ #  research and development conducted during the project and is provided
+ #  to users as so produced on an experimental basis.  Accordingly, the
+ #  program is provided without any warranty whatsoever, whether express,
+ #  implied, statutory or otherwise.  The term "warranty" used herein
+ #  includes, but is not limited to, any warranty of the quality,
+ #  performance, merchantability and fitness for a particular purpose of
+ #  the program and the nonexistence of any infringement or violation of
+ #  any right of any third party.
+ #
+ #  Each user of the program will agree and understand, and be deemed to
+ #  have agreed and understood, that there is no warranty whatsoever for
+ #  the program and, accordingly, the entire risk arising from or
+ #  otherwise connected with the program is assumed by the user.
+ #
+ #  Therefore, neither ICOT, the copyright holder, or any other
+ #  organization that participated in or was otherwise related to the
+ #  development of the program and their respective officials, directors,
+ #  officers and other employees shall be held liable for any and all
+ #  damages, including, without limitation, general, special, incidental
+ #  and consequential damages, arising out of or otherwise in connection
+ #  with the use or inability to use the program or any product, material
+ #  or result produced or otherwise obtained by using the program,
+ #  regardless of whether they have been advised of, or otherwise had
+ #  knowledge of, the possibility of such damages at any time during the
+ #  project or thereafter.  Each user will be deemed to have agreed to the
+ #  foregoing by his or her commencement of use of the program.  The term
+ #  "use" as used herein includes, but is not limited to, the use,
+ #  modification, copying and distribution of the program and the
+ #  production of secondary products from the program.
+ #
+ #  In the case where the program, whether in its original form or
+ #  modified, was distributed or delivered to or received by a user from
+ #  any person, organization or entity other than ICOT, unless it makes or
+ #  grants independently of ICOT any specific warranty to the user in
+ #  writing, such person, organization or entity, will also be exempted
+ #  from and not be held liable to the user for any such damages as noted
+ #  above as far as the program is concerned.
+ #
+ #  ---------------COPYING.ipadic-----END----------------------------------
+
+3. Lao Word Break Dictionary Data (laodict.txt)
+
+ #  Copyright (c) 2013 International Business Machines Corporation
+ #  and others. All Rights Reserved.
+ #
+ # Project: http://code.google.com/p/lao-dictionary/
+ # Dictionary: http://lao-dictionary.googlecode.com/git/Lao-Dictionary.txt
+ # License: http://lao-dictionary.googlecode.com/git/Lao-Dictionary-LICENSE.txt
+ #              (copied below)
+ #
+ #  This file is derived from the above dictionary, with slight
+ #  modifications.
+ #  ----------------------------------------------------------------------
+ #  Copyright (C) 2013 Brian Eugene Wilson, Robert Martin Campbell.
+ #  All rights reserved.
+ #
+ #  Redistribution and use in source and binary forms, with or without
+ #  modification,
+ #  are permitted provided that the following conditions are met:
+ #
+ #
+ # Redistributions of source code must retain the above copyright notice, this
+ #  list of conditions and the following disclaimer. Redistributions in
+ #  binary form must reproduce the above copyright notice, this list of
+ #  conditions and the following disclaimer in the documentation and/or
+ #  other materials provided with the distribution.
+ #
+ #
+ # THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+ # "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+ # LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+ # FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+ # COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+ # INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ # (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ # SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ # HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ # STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ # ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ # OF THE POSSIBILITY OF SUCH DAMAGE.
+ #  --------------------------------------------------------------------------
+
+4. Burmese Word Break Dictionary Data (burmesedict.txt)
+
+ #  Copyright (c) 2014 International Business Machines Corporation
+ #  and others. All Rights Reserved.
+ #
+ #  This list is part of a project hosted at:
+ #    github.com/kanyawtech/myanmar-karen-word-lists
+ #
+ #  --------------------------------------------------------------------------
+ #  Copyright (c) 2013, LeRoy Benjamin Sharon
+ #  All rights reserved.
+ #
+ #  Redistribution and use in source and binary forms, with or without
+ #  modification, are permitted provided that the following conditions
+ #  are met: Redistributions of source code must retain the above
+ #  copyright notice, this list of conditions and the following
+ #  disclaimer.  Redistributions in binary form must reproduce the
+ #  above copyright notice, this list of conditions and the following
+ #  disclaimer in the documentation and/or other materials provided
+ #  with the distribution.
+ #
+ #    Neither the name Myanmar Karen Word Lists, nor the names of its
+ #    contributors may be used to endorse or promote products derived
+ #    from this software without specific prior written permission.
+ #
+ #  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+ #  CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+ #  INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ #  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ #  DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS
+ #  BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+ #  EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+ #  TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ #  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ #  ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+ #  TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
+ #  THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ #  SUCH DAMAGE.
+ #  --------------------------------------------------------------------------
+
+5. Time Zone Database
+
+  ICU uses the public domain data and code derived from Time Zone
+Database for its time zone support. The ownership of the TZ database
+is explained in BCP 175: Procedure for Maintaining the Time Zone
+Database section 7.
+
+ # 7.  Database Ownership
+ #
+ #    The TZ database itself is not an IETF Contribution or an IETF
+ #    document.  Rather it is a pre-existing and regularly updated work
+ #    that is in the public domain, and is intended to remain in the
+ #    public domain.  Therefore, BCPs 78 [RFC5378] and 79 [RFC3979] do
+ #    not apply to the TZ Database or contributions that individuals make
+ #    to it.  Should any claims be made and substantiated against the TZ
+ #    Database, the organization that is providing the IANA
+ #    Considerations defined in this RFC, under the memorandum of
+ #    understanding with the IETF, currently ICANN, may act in accordance
+ #    with all competent court orders.  No ownership claims will be made
+ #    by ICANN or the IETF Trust on the database or the code.  Any person
+ #    making a contribution to the database or code waives all rights to
+ #    future claims in that contribution or in the TZ Database.
+ 
+END OF ICU4J NOTICES AND INFORMATION
+_______________________________________________________
+
+
+*******************************************************************
+* DOJO TOOLKIT                                                    *
+*******************************************************************
+DOJO TOOLKIT: The Program includes the Dojo Toolkit 1.10 software which IBM
+obtained under the terms and conditions of the following license:
+ 
+ 
+Copyright (c) 2005-2014, The Dojo Foundation
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+    list of conditions and the following disclaimer.
+  * Redistributions in binary form must reproduce the above copyright notice,
+    this list of conditions and the following disclaimer in the documentation
+    and/or other materials provided with the distribution.
+  * Neither the name of the Dojo Foundation nor the names of its contributors
+    may be used to endorse or promote products derived from this software
+    without specific prior written permission.
+ 
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+======================================================================
+APACHE CODE. The Program includes all or portions of the following 
+software which IBM obtained under the terms and conditions of the Apache License Version 
+2.0, January 2004.  This software may also consist of voluntary contributions made by 
+many individuals to the Apache Software Foundation.  For more information on the Apache 
+Software Foundation, please see http://www.apache.org:
+
+*	OpenAjax.js  Open Ajax hub 1.0 library
+*	Util/less  Less.js 1.1.4 library
+
+IBM is required to provide you, as the recipient of such software, 
+with a copy of the following license notice from the Apache Software 
+Foundation:  
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, 
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the 
+copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other 
+entities that control, are controlled by, or are under common control 
+with that entity. For the purposes of this definition, "control" means 
+(i) the power, direct or indirect, to cause the direction or 
+management of such entity, whether by contract or otherwise, or (ii) 
+ownership of fifty percent (50%) or more of the outstanding shares, or 
+(iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising 
+permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, 
+including but not limited to software source code, documentation 
+source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical 
+transformation or translation of a Source form, including but not 
+limited to compiled object code, generated documentation, and 
+conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object 
+form, made available under the License, as indicated by a copyright 
+notice that is included in or attached to the work (an example is 
+provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object 
+form, that is based on (or derived from) the Work and for which the 
+editorial revisions, annotations, elaborations, or other modifications 
+represent, as a whole, an original work of authorship. For the 
+purposes of this License, Derivative Works shall not include works 
+that remain separable from, or merely link (or bind by name) to the 
+interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the 
+original version of the Work and any modifications or additions to 
+that Work or Derivative Works thereof, that is intentionally submitted 
+to Licensor for inclusion in the Work by the copyright owner or by an 
+individual or Legal Entity authorized to submit on behalf of the 
+copyright owner. For the purposes of this definition, "submitted" 
+means any form of electronic, verbal, or written communication sent to 
+the Licensor or its representatives, including but not limited to 
+communication on electronic mailing lists, source code control 
+systems, and issue tracking systems that are managed by, or on behalf 
+of, the Licensor for the purpose of discussing and improving the Work, 
+but excluding communication that is conspicuously marked or otherwise 
+designated in writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity 
+on behalf of whom a Contribution has been received by Licensor and 
+subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of 
+this License, each Contributor hereby grants to You a perpetual, 
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable 
+copyright license to reproduce, prepare Derivative Works of, publicly 
+display, publicly perform, sublicense, and distribute the Work and 
+such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of 
+this License, each Contributor hereby grants to You a perpetual, 
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except 
+as stated in this section) patent license to make, have made,  use, 
+offer to sell, sell, import, and otherwise transfer the Work, where 
+such license applies only to those patent claims licensable by such 
+Contributor that are necessarily infringed by their Contribution(s) 
+alone or by combination of their Contribution(s) with the Work to 
+which such Contribution(s) was submitted. If You institute patent 
+litigation against any entity (including a cross-claim or counterclaim 
+in a lawsuit) alleging that the Work or a Contribution incorporated 
+within the Work constitutes direct or contributory patent 
+infringement, then any patent licenses granted to You under this 
+License for that Work shall terminate as of the date such litigation 
+is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work 
+or Derivative Works thereof in any medium, with or without 
+modifications, and in Source or Object form, provided that You meet 
+the following conditions:
+
+     (a) You must give any other recipients of the Work or Derivative 
+     Works a copy of this License; and
+
+     (b) You must cause any modified files to carry prominent notices 
+     stating that You changed the files; and
+
+     (c) You must retain, in the Source form of any Derivative Works 
+     that You distribute, all copyright, patent, trademark, and 
+     attribution notices from the Source form of the Work, excluding 
+     those notices that do not pertain to any part of the Derivative 
+     Works; and
+
+     (d) If the Work includes a "NOTICE" text file as part of its 
+     distribution, then any Derivative Works that You distribute must 
+     include a readable copy of the attribution notices contained 
+     within such NOTICE file, excluding those notices that do not 
+     pertain to any part of the Derivative Works, in at least one of 
+     the following places: within a NOTICE text file distributed as 
+     part of the Derivative Works; within the Source form or 
+     documentation, if provided along with the Derivative Works; or, 
+     within a display generated by the Derivative Works, if and 
+     wherever such third-party notices normally appear. The contents 
+     of the NOTICE file are for informational purposes only and do not 
+     modify the License. You may add Your own attribution notices 
+     within Derivative Works that You distribute, alongside or as an 
+     addendum to the NOTICE text from the Work, provided that such 
+     additional attribution notices cannot be construed as modifying 
+     the License.
+
+You may add Your own copyright statement to Your modifications and may 
+provide additional or different license terms and conditions for use, 
+reproduction, or distribution of Your modifications, or for any such 
+Derivative Works as a whole, provided Your use, reproduction, and 
+distribution of the Work otherwise complies with the conditions stated 
+in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise, 
+any Contribution intentionally submitted for inclusion in the Work by 
+You to the Licensor shall be under the terms and conditions of this 
+License, without any additional terms or conditions.  Notwithstanding 
+the above, nothing herein shall supersede or modify the terms of any 
+separate license agreement you may have executed with Licensor 
+regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade 
+names, trademarks, service marks, or product names of the Licensor, 
+except as required for reasonable and customary use in describing the 
+origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed 
+to in writing, Licensor provides the Work (and each Contributor 
+provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
+CONDITIONS OF ANY KIND, either express or implied, including, without 
+limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, 
+MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely 
+responsible for determining the appropriateness of using or 
+redistributing the Work and assume any risks associated with Your 
+exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, 
+whether in tort (including negligence), contract, or otherwise, unless 
+required by applicable law (such as deliberate and grossly negligent 
+acts) or agreed to in writing, shall any Contributor be liable to You 
+for damages, including any direct, indirect, special, incidental, or 
+consequential damages of any character arising as a result of this 
+License or out of the use or inability to use the Work (including but 
+not limited to damages for loss of goodwill, work stoppage, computer 
+failure or malfunction, or any and all other commercial damages or 
+losses), even if such Contributor has been advised of the possibility 
+of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing 
+the Work or Derivative Works thereof, You may choose to offer, and 
+charge a fee for, acceptance of support, warranty, indemnity, or other 
+liability obligations and/or rights consistent with this License. 
+However, in accepting such obligations, You may act only on Your own 
+behalf and on Your sole responsibility, not on behalf of any other 
+Contributor, and only if You agree to indemnify, defend, and hold each 
+Contributor harmless for any liability incurred by, or claims asserted 
+against, such Contributor by reason of your accepting any such 
+warranty or additional liability.
+
+END OF APACHE NOTICES AND INFORMATION
+
+======================================================================
+CSS Styles from Yahoo Widget Library.  The Program includes all or portions of the 
+following software which was obtained under the terms and conditions of the BSD License.
+
+CSS Styles from  Yahoo Widget Library Library
+Copyright (c) 2006, Yahoo! Inc.
+ All rights reserved.
+ Redistribution and use of this software in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+ * Redistributions of source code must retain the above copyright notice, this list of 
+conditions and the following disclaimer. 
+* Redistributions in binary form must reproduce the above copyright notice, this list of 
+conditions and the following disclaimer in the 
+documentation and/or other materials provided with the distribution.
+ * Neither the name of Yahoo! Inc. nor the names of its contributors may be used to 
+endorse or promote products derived from this software without 
+specific prior written permission of Yahoo! Inc. 
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY 
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL 
+THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT 
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR 
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+END OF CSS Styles from Yahoo Widget Library NOTICES AND INFORMATION
+
+======================================================================
+Firebug Lite Files.  The Program includes all or portions of the following 
+software which was obtained under the terms and conditions of the 
+BSD License.
+
+firebug.html, firebug.js, errIcon.png, infoIcon.png, warningIcon.png:
+		  Distributed under the terms of the BSD License (see below)
+
+Copyright (c) 2006-2007, Joe Hewitt
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this
+	list of conditions and the following disclaimer.
+  * Redistributions in binary form must reproduce the above copyright notice,
+	this list of conditions and the following disclaimer in the documentation
+	and/or other materials provided with the distribution.
+  * Neither the name of the Dojo Foundation nor the names of its contributors
+	may be used to endorse or promote products derived from this software
+	without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+END OF FIREBUG LITE FILES NOTICES AND INFORMATION
+
+======================================================================
+Unicode CLDR Data Files.  The Program includes data files
+which were obtained under the terms and conditions of the following license.
+ 
+
+UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
+
+Unicode Data Files include all data files under the directories 
+http://www.unicode.org/Public/, http://www.unicode.org/reports/, 
+and http://www.unicode.org/cldr/data/ . 
+Unicode Software includes any source code published in the Unicode Standard or under the 
+directories http://www.unicode.org/Public/, http://www.unicode.org/reports/, and 
+http://www.unicode.org/cldr/data/.
+
+NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING, INSTALLING, 
+COPYING OR OTHERWISE USING UNICODE INC.'S DATA FILES ("DATA FILES"), AND/OR SOFTWARE 
+("SOFTWARE"), YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE TERMS AND 
+CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY, 
+DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+
+COPYRIGHT AND PERMISSION NOTICE
+Copyright (c) 1991-2007 Unicode, Inc. All rights reserved. Distributed under the Terms of 
+Use in http://www.unicode.org/copyright.html.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the 
+Unicode data files and any associated  documentation (the "Data Files") or Unicode 
+software and any associated documentation (the "Software") to deal in the Data Files or 
+Software without restriction, including without limitation the rights to use, copy, 
+modify, merge, publish, distribute, and/or sell 
+copies of the Data Files or Software, and to permit persons to whom the Data Files or 
+Software are furnished to do so, provided  that (a) the above copyright notice(s) and 
+this permission notice appear with all copies of the Data Files or Software, (b) both the 
+above copyright notice(s) and this permission notice appear in associated documentation, 
+and (c) there is clear notice in each modified Data File or in the Software as well as in 
+the documentation associated with the Data File(s) or Software that the data or software 
+has been modified.
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE 
+COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY 
+SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS 
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS 
+ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA FILES OR 
+SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall not be used in 
+advertising or otherwise to promote the sale, use or other dealings in these Data Files 
+or Software without prior written authorization of the copyright holder.
+
+END OF UNICODE CLDR DATA FILES NOTICES AND INFORMATION
+
+======================================================================
+Json.php  is used in a number of test cases and redistributed under terms of the New BSD 
+License.  Note that this content is not governed by the JSON license (good vs evil) from 
+JSON.org (http://www.json.org/license.html). 
+copyright (c) 2005 Michal Migurski
+
+
+dojox/lang/functional.js - parts of this module (most notably lamda, constFun, invoke, 
+pluck, and partial) are based on work by Oliver Steele 
+(http://osteele.com/sources/javascript/functional/functional.js)
+which was published under MIT License
+
+Javascript language helper functions: The Program includes all or portions of the 
+following software which was obtained under the terms and conditions of the MIT 
+License.
+
+dojox/lang/functional.js
+Copyright (c) 2007 Oliver Steele
+
+util/buildscripts/jslib/packer/base2.js, Packer.js, Word.js
+Copyright (c) 2007 Dean Edwards
+
+Dojox/highlight/_base2.js
+Copyright (c) 2006 Ivan Sagalaev
+
+The MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of 
+this software and associated documentation files (the "Software"), to deal in 
+the Software without restriction, including without limitation the rights to 
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of 
+the Software, and to permit persons to whom the Software is furnished to do so, 
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all 
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER 
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+END OF Javascript language helper functions   
+
+======================================================================
+The following license covers ICU4J.  No parts of ICU4J ship with Dojo; however, 
+the Hebrew date support is ported from ICU4J (as a derivative work):
+ICU License - ICU 1.8.1 and later
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1995-2009 International Business Machines Corporation and others
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of 
+this software and associated documentation files (the "Software"), to deal in 
+the Software without restriction, including without limitation the rights to 
+use, copy, modify, merge, publish, distribute, and/or sell copies of the 
+Software, and to permit persons to whom the Software is furnished to do so, 
+provided that the above copyright notice(s) and this permission notice appear in 
+all copies of the Software and that both the above copyright notice(s) and this 
+permission notice appear in supporting documentation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT 
+SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY 
+CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES 
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF 
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION 
+WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not be 
+used in advertising or otherwise to promote the sale, use or other dealings in 
+this Software without prior written authorization of the copyright holder.
+
+All trademarks and registered trademarks mentioned herein are the property of 
+their respective owners.
+
+======================================================================
+The following license covers US map data in <dojo-directory>/dojox/geo/charting 
+
+	Are there legal restrictions on access or use of the data?
+
+		Access_Constraints: None 
+		Use_Constraints: 
+			None. Acknowledgment of the National Atlas of the United 
+States 
+			of America and (or) the U.S. Geological Survey would be 
+			appreciated in products derived from these data. 
+
+	1. Who distributes the data set? (Distributor 1 of 1)
+
+		Earth Science Information Center, U.S. Geological Survey
+		507 National Center
+		Reston, VA 20192
+
+		1-888-ASK-USGS (1-888-275-8747) (voice)
+
+
+		Contact_Instructions: 
+			In addition to the address above there are other ESIC 
+offices throughout the 	
+			country. A full list of these offices is at 
+			<http://mapping.usgs.gov/esic/esic_index.html>. 
+
+	2. What's the catalog number I need to order this data set?
+
+	3. What legal disclaimers am I supposed to read?
+
+		Although these data have been processed successfully on a 
+computer system 
+		at the U.S. Geological Survey, no warranty expressed or implied 
+is made by the U.S. Geological Survey regarding
+		the utility of the data on any other system, nor shall the act of 
+distribution constitute any such warranty. No
+		responsibility is assumed by the U.S. Geological Survey in the 
+use of these data.
+
+	4. How can I download or order the data?
+
+		Availability in digital form:
+			
+		Data format: ESRI Shapefile  
+		Network links: <http://nationalatlas.gov/atlasftp.html>
+ 
+		Data format: SDTS  
+		Network links: <http://nationalatlas.gov/atlasftp.html>
+ 
+
+		Cost to order the data: 
+
+		There is no charge for the online option. For National Atlas 
+files ordered on CD-ROM 
+		there is a base price of $45.00 per disc, a handling fee of 
+$5.00, and a per-file 
+		charge based on file size. The charge for files less than 10 
+megabytes in size is 
+		$1.00. The charge for files that range in size from 10 to 150 
+megabytes is $7.50. The 
+		charge for files of 150 megabytes or larger is $15.00. The charge 
+is $7.50 for the 
+		Major Roads of the United States data set.
+
+
+		Special instructions:
+
+			To order files on CD-ROM, please see 
+<http://nationalatlas.gov/atlasftp.html#q12>. 
+
+======================================================================
+The following license covers non US map data in <dojo-
+directory>/dojox/geo/charting 
+
+
+Public Domain. All versions of Natural Earth raster + vector map data found on 
+this website are in the public domain.
+You may use the maps in any manner, including modifying the content and design, 
+electronic dissemination, and offset
+printing. The primary authors, Tom Patterson and Nathaniel Vaughn Kelso, and all 
+other contributors renounce all
+financial claim to the maps and invites you to use them for personal, 
+educational, and commercial purposes.
+
+No permission is needed to use Natural Earth. Crediting the authors is 
+unnecessary.
+
+However, if you wish to cite the map data, simply use one of the following.
+
+Short text: Made with Natural Earth.
+
+Long text: Made with Natural Earth. Free vector and raster map data @ 
+naturalearthdata.com.
+
+All users of Natural Earth are highly encouraged to read about data sources and 
+manipulation in the Data Creation section.
+
+The authors provide Natural Earth as a public service and are not responsible 
+for any problems relating to accuracy,
+content, design, and how it is used. If you find an error or omission, please 
+report it for future updates.
+
+The authors used data from The Washington Post, here is their release:
+
+    Natural Earth is hereby granted a non-exclusive license to use the data 
+being provided by The Washington Post for
+    the sole purpose of creating a world base map.  The Washington Post makes no 
+claims as to the completeness, accuracy
+    or content of the data, and makes no representation of any kind, including, 
+but not limited to, any warranty as to
+    the accuracy or fitness of the data for a particular use (nor shall the act 
+of distribution constitute any such
+    warranty). No responsibility is assumed by The Washington Post for any 
+claims arising out of Natural Earths use of
+    the data.
+
+The authors used river and lake data (for Europe only) from the European 
+Commission, Joint Research Centre, Institute
+for Environment and Sustainability, here is their release:
+
+    Natural Earth is hereby granted a non-exclusive license to use the data 
+being provided by European Commission, Joint
+    Research Centre, Institute for Environment and Sustainability (JRC IES) for 
+the sole purpose of creating a world
+    base map. The EC JRC IES makes no claims as to the completeness, accuracy or 
+content of the data, and makes no
+    representation of any kind, including, but not limited to, any warranty as 
+to the accuracy or fitness of the data
+    for a particular use (nor shall the act of distribution constitute any such 
+warranty). No responsibility is assumed
+    by EC JRC IES for any claims arising out of Natural Earths use of the data.
+
+The authors used road transportation data (for North America only) from XNR 
+Productions, here is their release:
+
+    Natural Earth is hereby granted a non-exclusive license to use the data 
+being provided by XNR Productions for the
+    sole purpose of creating a world base map. XNR makes no claims as to the 
+completeness, accuracy or content of the
+    data, and makes no representation of any kind, including, but not limited 
+to, any warranty as to the accuracy or
+    fitness of the data for a particular use (nor shall the act of distribution 
+constitute any such warranty). No
+    responsibility is assumed by XNR for any claims arising out of Natural 
+Earths use of the data.
+
+Happy mapping!
+
+======================================================================
+The following will be added to the notices file for Shrinksafe (and called out 
+in the DOU for Dojo):
+
+The Mozilla Public License Version 1.1 covers the optional Shrinksafe build 
+tool, and Mozilla Rhino 1.7r2 which is redistributed with that tool.  Shrinksafe 
+contains modified files from Mozilla Rhino covered under Mozilla Public License 
+Version 1.1.  The source code for these modifications has been made available at 
+the public Dojo svn repository at http://www.dojotoolkit.org.  
+
+The Shrinksafe tool requires use of Mozilla Rhino 1.6r7 or higher in order to 
+run.  We are relying on the separate DD Checklist already approved for the Rhino 
+1.7R2 jar. The version of Rhino that will be redistributed with the Shrinksafe 
+package by default is the approved version of Mozilla Rhino 1.7r2.
+
+END OF DOJO TOOLKIT NOTICES AND INFORMATION
+_______________________________________________________
+
+
+======================================================================
+**********************************************************************
+======================================================================
+
+NOTICES AND INFORMATION
+
+IBM Cúram Life Event Management V7.0.5
+IBM Cúram Life Event Management Professional V7.0.5
+IBM Cúram Evidence Broker V7.0.5
+IBM Cúram Verification Engine V7.0.5
+IBM Cúram Verification Engine Professional V7.0.5
+
+The IBM license agreement and any applicable information on the web
+download page for IBM products refers Licensee to this file for details
+concerning notices applicable to code included in the products listed
+above ("the Program").
+
+Notwithstanding the terms and conditions of any other agreement Licensee
+may have with IBM or any of its related or affiliated entities
+(collectively "IBM"), the third party code identified below is subject
+to the terms and conditions of the IBM license agreement for the Program
+and not the license terms that may be contained in the notices below.
+The notices are provided for informational purposes.
+
+Please note: This Notices file may identify information that is not used
+by, or that was not shipped with, the Program as Licensee installed it.
+
+IMPORTANT: IBM does not represent or warrant that the information in this
+NOTICES file is accurate. Third party websites are independent of IBM and
+IBM does not represent or warrant that the information on any third party
+website referenced in this NOTICES file is accurate. IBM disclaims any
+and all liability for errors and omissions or for any damages accruing
+from the use of this NOTICES file or its contents, including without
+limitation URLs or references to any third party websites.
+
+
+The following are Excluded Components:
+
+Apache Jakarta Commons IO,
+Apache Regexp,
+Iz Pack,
+Jakarta BSF - Bean Scripting Framework,
+Java look and feel Graphics Repository,
+JDOM, 
+JGoodies - looks,
+SAC - The Simple API for CSS (org.w3c.css.sac),
+Sun Java Platform Standard Edition SDK (J2SDK),
+Tango Icons,
+Xerces, 
+XML Unit, 
+XML-Commons (XML-APIs)
+
+APACHE CODE: The Program includes all or portions of the following software 
+developed by the Apache Software Foundation.  This software consists of 
+voluntary contributions made by many individuals on behalf of the Apache Software Foundation.  
+For more information on the Apache Software Foundation, please see http://www.apache.org.
+
+/* ====================================================================
+* The Apache Software License, Version 1.1
+
+The Program includes some or all of the following that IBM obtained under the 
+Apache License Version 1.1 
+
+Xerces, XML-Commons (XML-APIs)
+
+IBM is required to provide to You the following notices and other important 
+information with respect to these Excluded Components:
+
+The license text for Apache v1.1 is as follows
+/* ====================================================================
+ * The Apache Software License, Version 1.1
+ *
+ * Copyright (c) 2000 The Apache Software Foundation.  All rights
+ * reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. The end-user documentation included with the redistribution,
+ *    if any, must include the following acknowledgment:
+ *       "This product includes software developed by the
+ *        Apache Software Foundation (http://www.apache.org/)."
+ *    Alternately, this acknowledgment may appear in the software itself,
+ *    if and wherever such third-party acknowledgments normally appear.
+ *
+ * 4. The names "Apache" and "Apache Software Foundation" must
+ *    not be used to endorse or promote products derived from this
+ *    software without prior written permission. For written
+ *    permission, please contact apache@apache.org.
+ *
+ * 5. Products derived from this software may not be called "Apache",
+ *    nor may "Apache" appear in their name, without prior written
+ *    permission of the Apache Software Foundation.
+ *
+ * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ * USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This software consists of voluntary contributions made by many
+ * individuals on behalf of the Apache Software Foundation.  For more
+ * information on the Apache Software Foundation, please see
+ * <http://www.apache.org/>.
+ *
+ * Portions of this software are based upon public domain software
+ * originally written at the National Center for Supercomputing Applications,
+ * University of Illinois, Urbana-Champaign.
+ */
+
+ ===========================================================
+          The Apache Software License, Version 2.0
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Apache License Version 2.0
+
+Jakarta Commons IO, Iz Pack, Regexp, Jakarta BSF
+
+The license text for Apache v2.0 is as follows:
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and 
+distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright 
+owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities 
+that control, are controlled by, or are under common control with that entity. 
+For the purposes of this definition, "control" means (i) the power, direct or 
+indirect, to cause the direction or management of such entity, whether by 
+contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the 
+outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising 
+permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including 
+but not limited to software source code, documentation source, and configuration 
+files.
+
+"Object" form shall mean any form resulting from mechanical transformation or 
+translation of a Source form, including but not limited to compiled object code, 
+generated documentation, and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made 
+available under the License, as indicated by a copyright notice that is included 
+in or attached to the work (an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that 
+is based on (or derived from) the Work and for which the editorial revisions, 
+annotations, elaborations, or other modifications represent, as a whole, an 
+original work of authorship. For the purposes of this License, Derivative Works 
+shall not include works that remain separable from, or merely link (or bind by 
+name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version 
+of the Work and any modifications or additions to that Work or Derivative Works 
+thereof, that is intentionally submitted to Licensor for inclusion in the Work 
+by the copyright owner or by an individual or Legal Entity authorized to submit 
+on behalf of the copyright owner. For the purposes of this definition, 
+"submitted" means any form of electronic, verbal, or written communication sent 
+to the Licensor or its representatives, including but not limited to 
+communication on electronic mailing lists, source code control systems, and 
+issue tracking systems that are managed by, or on behalf of, the Licensor for 
+the purpose of discussing and improving the Work, but excluding communication 
+that is conspicuously marked or otherwise designated in writing by the copyright 
+owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf 
+of whom a Contribution has been received by Licensor and subsequently 
+incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this 
+License, each Contributor hereby grants to You a perpetual, worldwide, non-
+exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, 
+prepare Derivative Works of, publicly display, publicly perform, sublicense, and 
+distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, 
+each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-
+charge, royalty-free, irrevocable (except as stated in this section) patent 
+license to make, have made, use, offer to sell, sell, import, and otherwise 
+transfer the Work, where such license applies only to those patent claims 
+licensable by such Contributor that are necessarily infringed by their 
+Contribution(s) alone or by combination of their Contribution(s) with the Work 
+to which such Contribution(s) was submitted. If You institute patent litigation 
+against any entity (including a cross-claim or counterclaim in a lawsuit) 
+alleging that the Work or a Contribution incorporated within the Work 
+constitutes direct or contributory patent infringement, then any patent licenses 
+granted to You under this License for that Work shall terminate as of the date 
+such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or 
+Derivative Works thereof in any medium, with or without modifications, and in 
+Source or Object form, provided that You meet the following conditions:
+
+    You must give any other recipients of the Work or Derivative Works a copy of 
+this License; and
+
+    You must cause any modified files to carry prominent notices stating that 
+You changed the files; and
+
+    You must retain, in the Source form of any Derivative Works that You 
+distribute, all copyright, patent, trademark, and attribution notices from the 
+Source form of the Work, excluding those notices that do not pertain to any part 
+of the Derivative Works; and
+
+    If the Work includes a "NOTICE" text file as part of its distribution, then 
+any Derivative Works that You distribute must include a readable copy of the 
+attribution notices contained within such NOTICE file, excluding those notices 
+that do not pertain to any part of the Derivative Works, in at least one of the 
+following places: within a NOTICE text file distributed as part of the 
+Derivative Works; within the Source form or documentation, if provided along 
+with the Derivative Works; or, within a display generated by the Derivative 
+Works, if and wherever such third-party notices normally appear. The contents of 
+the NOTICE file are for informational purposes only and do not modify the 
+License. You may add Your own attribution notices within Derivative Works that 
+You distribute, alongside or as an addendum to the NOTICE text from the Work, 
+provided that such additional attribution notices cannot be construed as 
+modifying the License. You may add Your own copyright statement to Your 
+modifications and may provide additional or different license terms and 
+conditions for use, reproduction, or distribution of Your modifications, or for 
+any such Derivative Works as a whole, provided Your use, reproduction, and 
+distribution of the Work otherwise complies with the conditions stated in this 
+License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise, any 
+Contribution intentionally submitted for inclusion in the Work by You to the 
+Licensor shall be under the terms and conditions of this License, without any 
+additional terms or conditions. Notwithstanding the above, nothing herein shall 
+supersede or modify the terms of any separate license agreement you may have 
+executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, 
+trademarks, service marks, or product names of the Licensor, except as required 
+for reasonable and customary use in describing the origin of the Work and 
+reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in 
+writing, Licensor provides the Work (and each Contributor provides its 
+Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY 
+KIND, either express or implied, including, without limitation, any warranties 
+or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A 
+PARTICULAR PURPOSE. You are solely responsible for determining the 
+appropriateness of using or redistributing the Work and assume any risks 
+associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in 
+tort (including negligence), contract, or otherwise, unless required by 
+applicable law (such as deliberate and grossly negligent acts) or agreed to in 
+writing, shall any Contributor be liable to You for damages, including any 
+direct, indirect, special, incidental, or consequential damages of any character 
+arising as a result of this License or out of the use or inability to use the 
+Work (including but not limited to damages for loss of goodwill, work stoppage, 
+computer failure or malfunction, or any and all other commercial damages or 
+losses), even if such Contributor has been advised of the possibility of such 
+damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or 
+Derivative Works thereof, You may choose to offer, and charge a fee for, 
+acceptance of support, warranty, indemnity, or other liability obligations 
+and/or rights consistent with this License. However, in accepting such 
+obligations, You may act only on Your own behalf and on Your sole 
+responsibility, not on behalf of any other Contributor, and only if You agree to 
+indemnify, defend, and hold each Contributor harmless for any liability incurred 
+by, or claims asserted against, such Contributor by reason of your accepting any 
+such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS	
+
+ ===========================================================
+         		 BSD License
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+BSD License. 
+
+XML Unit 
+Copyright (c) 2001, Jeff Martin, Tim Bacon
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above
+      copyright notice, this list of conditions and the following
+      disclaimer in the documentation and/or other materials provided
+      with the distribution.
+    * Neither the name of the xmlunit.sourceforge.net nor the names
+      of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written
+      permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+JGoodies Looks
+Copyright (c) 2001-2007 JGoodies Karsten Lentzsch. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+ o Redistributions of source code must retain the above copyright notice, 
+   this list of conditions and the following disclaimer. 
+    
+ o Redistributions in binary form must reproduce the above copyright notice, 
+   this list of conditions and the following disclaimer in the documentation 
+   and/or other materials provided with the distribution. 
+    
+ o Neither the name of JGoodies Karsten Lentzsch nor the names of 
+   its contributors may be used to endorse or promote products derived 
+   from this software without specific prior written permission. 
+    
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, 
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; 
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR 
+OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+	
+ ===========================================================
+		BSD-Style License 
+ ===========================================================
+
+The Program includes some or all of the following that IBM obtained under the 
+BSD-style License.
+
+Java Look and Feel Graphics Copyright 2000 by Sun Microsystems, Inc. 
+
+The license text is as follows:
+
+Copyright 2000 by Sun Microsystems, Inc. All Rights Reserved.
+
+Sun grants you ("Licensee") a non-exclusive, royalty free, license to use, and 
+redistribute this software graphics artwork, as individual graphics or as a 
+collection, as part of software code or programs that you develop, provided that 
+i) this copyright notice and license accompany the software graphics artwork; 
+and ii) you do not utilize the software graphics artwork in a manner which is 
+disparaging to Sun. Unless enforcement is prohibited by applicable law, you may 
+not modify the graphics, and must use them true to color and unmodified in every 
+way.
+
+This software graphics artwork is provided "AS IS," without a warranty of any 
+kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, 
+INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. SUN AND ITS LICENSORS SHALL 
+NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, 
+MODIFYING OR DISTRIBUTING THE SOFTWARE GRAPHICS ARTWORK.
+
+IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR 
+DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE 
+DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT 
+OF THE USE OF OR INABILITY TO USE SOFTWARE GRAPHICS ARTWORK, EVEN IF SUN HAS 
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If any of the above provisions are held to be in violation of applicable law, 
+void, or unenforceable in any jurisdiction, then such provisions are waived to 
+the extent necessary for this Disclaimer to be otherwise enforceable in such 
+jurisdiction.
+
+
+JDOM Copyright (C) 2000-2007 Jason Hunter & Brett McLaughlin
+
+The License text for this software is as follows:
+
+Copyright (C) 2000-2007 Jason Hunter & Brett McLaughlin.
+All rights reserved.
+
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions
+ are met:
+
+ 1. Redistributions of source code must retain the above copyright
+    notice, this list of conditions, and the following disclaimer.
+
+ 2. Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions, and the disclaimer that follows
+    these conditions in the documentation and/or other materials
+    provided with the distribution.
+
+ 3. The name "JDOM" must not be used to endorse or promote products
+    derived from this software without prior written permission.  For
+    written permission, please contact <request_AT_jdom_DOT_org>.
+
+ 4. Products derived from this software may not be called "JDOM", nor
+    may "JDOM" appear in their name, without prior written permission
+    from the JDOM Project Management <request_AT_jdom_DOT_org>.
+
+ In addition, we request (but do not require) that you include in the
+ end-user documentation provided with the redistribution and/or in the
+ software itself an acknowledgement equivalent to the following:
+     "This product includes software developed by the
+      JDOM Project (http://www.jdom.org/)."
+ Alternatively, the acknowledgment may be graphical using the logos
+ available at http://www.jdom.org/images/logos.
+
+ THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED.  IN NO EVENT SHALL THE JDOM AUTHORS OR THE PROJECT
+ CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ SUCH DAMAGE.
+
+ This software consists of voluntary contributions made by many
+ individuals on behalf of the JDOM Project and was originally
+ created by Jason Hunter <jhunter_AT_jdom_DOT_org> and
+ Brett McLaughlin <brett_AT_jdom_DOT_org>.  For more information
+ on the JDOM Project, please see <http://www.jdom.org/>.
+
+ ===========================================================
+	Common Development and Distribution License 
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+Common Development and Distribution License (source code available via the 
+indicated URL): 
+
+Sun Java Platform Standard Edition 
+SDK(http://www.oracle.com/technetwork/java/archive-139210.html)	  
+
+===========================================================
+		W3C Software License
+ ===========================================================
+The Program includes some or all of the following that IBM obtained under the 
+W3C Software Notice and License
+SAC and w3c DOM
+
+The full text of license is as follows
+W3C SOFTWARE NOTICE AND LICENSE
+
+Copyright 1994-2001 World Wide Web Consortium, (Massachusetts Institute of 
+Technology, Institut National de Recherche en Informatique et en Automatique, 
+Keio University). All Rights Reserved. http://www.w3.org/Consortium/Legal/
+
+This W3C work (including software, documents, or other related items) is being 
+provided by the copyright holders under the following license. By obtaining, 
+using and/or copying this work, you (the licensee) agree that you have read, 
+understood, and will comply with the following terms and conditions:
+
+Permission to use, copy, modify, and distribute this software and its 
+documentation, with or without modification, for any purpose and without fee or 
+royalty is hereby granted, provided that you include the following on ALL copies 
+of the software and documentation or portions thereof, including modifications, 
+that you make:
+
+    1. The full text of this NOTICE in a location viewable to users of the 
+redistributed or derivative work.
+
+    2. Any pre-existing intellectual property disclaimers, notices, or terms and 
+conditions. If none exist, a short notice of the following form (hypertext is 
+preferred, text is permitted) should be used within the body of any 
+redistributed or derivative code: "Copyright © [$date-of-software] World Wide 
+Web Consortium, (Massachusetts Institute of Technology, Institut National de 
+Recherche en Informatique et en Automatique, Keio University). All Rights 
+Reserved. http://www.w3.org/Consortium/Legal/"
+
+    3. Notice of any changes or modifications to the W3C files, including the 
+date changes were made. (We recommend you provide URIs to the location from 
+which the code is derived.)
+
+THIS SOFTWARE AND DOCUMENTATION IS PROVIDED "AS IS," AND COPYRIGHT HOLDERS MAKE 
+NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT 
+THE USE OF THE SOFTWARE OR DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY 
+PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS.
+
+COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR 
+CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENTATION.
+
+The name and trademarks of copyright holders may NOT be used in advertising or 
+publicity pertaining to the software without specific, written prior permission. 
+Title to copyright in this software and any associated documentation will at all 
+times remain with copyright holders.	
+
+ ===========================================================
+		Public Domain software
+ ===========================================================
+The Program includes some or all of the following softwares that are available 
+in public domain:
+DOM Design Tricks (http://www.alistapart.com/articles/dom2/)
+Copyright © 1998-2012 A List Apart Magazine and the authors.
+
+Free source
+In its tutorials and articles, A List Apart gives away CSS styles, JavaScript, 
+PHP and Perl scripts, XHTML markup techniques, and other bits of “source code” 
+for the use of its readers. You may freely copy, paste, and modify any of this 
+code for use on your own web projects large or small, commercial or non-
+commercial. You need not ask permission to do so. You need not credit ALA or its 
+authors. It is our gift to you.
+
+This Programs includes Tango Icons (http://tango.freedesktop.org/) which are 
+available in public domain.
+
+
+L/N:  L-JROK-B56JE6
+D/N:  L-JROK-B56JE6
+P/N:  L-JROK-B56JE6
